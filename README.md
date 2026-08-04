@@ -67,10 +67,10 @@ A simple command-line To-Do List application for managing daily tasks.
 
 ## How to Run
 
-Clone the repository:
+Clone the repository: https://github.com/shreyash-chauhan/BasicStarterPython.git
 
 ```bash
-git clone https://github.com/yourusername/python-mini-projects.git
+git clone 
 ```
 
 Navigate to the project folder:
