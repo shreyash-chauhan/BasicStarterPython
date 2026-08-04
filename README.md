@@ -103,14 +103,4 @@ or
 python todo.py
 ```
 
-## Future Improvements
-
-- Add graphical interfaces using Tkinter
-- Store data using files or databases
-- Improve user interface and error handling
-- Add automated tests
-- Expand the collection with more Python projects
-
----
-
 These projects were built as part of my learning journey to strengthen my Python programming fundamentals through hands-on practice.
